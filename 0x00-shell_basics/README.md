@@ -47,3 +47,8 @@ Change the working directory to the previous one
 ## 11 - lists
 
 List files in multiple directories
+
+## 12 - file type
+
+Print the type of a file
+
