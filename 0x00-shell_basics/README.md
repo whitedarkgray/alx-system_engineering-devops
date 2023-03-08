@@ -52,3 +52,6 @@ List files in multiple directories
 
 Print the type of a file
 
+## 13 - symbolic link
+
+Create a symbolic link
