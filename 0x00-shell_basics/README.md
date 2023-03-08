@@ -23,3 +23,7 @@ Display current directory contents including hidden files, in a long format
 ## 5 - numbers
 
 Display current directory contents in long format, with user and group IDs displayed as numbers, including hidden files
+
+## 6 - welcome
+
+Create a script that creates a directory in the `/tmp/` directory
