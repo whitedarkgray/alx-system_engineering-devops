@@ -35,3 +35,7 @@ Move a file to a directory
 ## 8 - remove file
 
 Delete the file betty
+
+## 9 - remove dir
+
+Delete the 1st directory
