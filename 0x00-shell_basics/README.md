@@ -31,3 +31,7 @@ Create a script that creates a directory in the `/tmp/` directory
 ## 7 - mv
 
 Move a file to a directory
+
+## 8 - remove file
+
+Delete the file betty
