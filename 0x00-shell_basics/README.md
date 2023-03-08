@@ -15,3 +15,7 @@ Change the working directory to the home directory
 ## 3 - long format
 
 Display current directory contents in a long format
+
+## 4 - hidden files
+
+Display current directory contents including hidden files, in a long format
