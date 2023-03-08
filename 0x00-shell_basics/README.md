@@ -68,3 +68,7 @@ Move all files beginning with an uppercase letter to the dir /tmp/u
 
 Delete all files in current dir that end with ~
 
+## 102 - tree
+
+Create nested directories with one command
+
