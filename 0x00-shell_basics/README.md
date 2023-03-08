@@ -64,3 +64,7 @@ Create a script that copies all the HTML files from the current working director
 
 Move all files beginning with an uppercase letter to the dir /tmp/u
 
+## 101 - clean Emacs
+
+Delete all files in current dir that end with ~
+
