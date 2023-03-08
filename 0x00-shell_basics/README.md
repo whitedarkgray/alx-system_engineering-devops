@@ -72,3 +72,7 @@ Delete all files in current dir that end with ~
 
 Create nested directories with one command
 
+## 103 - comma
+
+List files separated by commas, and dir with extra /
+
