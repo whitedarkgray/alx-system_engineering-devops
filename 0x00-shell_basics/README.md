@@ -27,3 +27,7 @@ Display current directory contents in long format, with user and group IDs displ
 ## 6 - welcome
 
 Create a script that creates a directory in the `/tmp/` directory
+
+## 7 - mv
+
+Move a file to a directory
