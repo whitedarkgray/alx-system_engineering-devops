@@ -19,3 +19,7 @@ Display current directory contents in a long format
 ## 4 - hidden files
 
 Display current directory contents including hidden files, in a long format
+
+## 5 - numbers
+
+Display current directory contents in long format, with user and group IDs displayed as numbers, including hidden files
