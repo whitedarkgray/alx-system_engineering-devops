@@ -76,3 +76,7 @@ Create nested directories with one command
 
 List files separated by commas, and dir with extra /
 
+## 104 - magic
+
+Detect files with SCHOOL at offset 0
+
