@@ -39,3 +39,8 @@ Delete the file betty
 ## 9 - remove dir
 
 Delete the 1st directory
+
+## 10 - back to the future 
+
+Change the working directory to the previous one
+
