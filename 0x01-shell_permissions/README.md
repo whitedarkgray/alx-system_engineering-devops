@@ -63,3 +63,7 @@ Change the owner and group of all files
 ### 101 - symbolic link perm
 
 Change the permissions of a symbolic link
+
+### 102 - chown if specific user
+
+Change the user if it is a specific user
