@@ -27,3 +27,7 @@ Add execute permission to the owner of a file
 ### 6 - multi permissions
 
 Adds different permissions to the user, group and world
+
+### 7 - everybody
+
+Give permission to everybody to execute
