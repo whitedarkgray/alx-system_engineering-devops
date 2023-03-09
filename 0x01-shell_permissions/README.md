@@ -55,3 +55,7 @@ Create a directory with given permissions
 ### 13 - change group
 
 Change the group of a file
+
+### 100 - ch owner and group
+
+Change the owner and group of all files
