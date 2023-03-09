@@ -11,3 +11,7 @@ Print the effective username of the current user
 ### 2 - groups
 
 Print all the groups the current user is part of
+
+### 3 - new owner
+
+Change the owner of a file
