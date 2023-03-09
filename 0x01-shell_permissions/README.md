@@ -7,3 +7,7 @@ Switch the current user to another user
 ### 1 - who am i
 
 Print the effective username of the current user
+
+### 2 - groups
+
+Print all the groups the current user is part of
