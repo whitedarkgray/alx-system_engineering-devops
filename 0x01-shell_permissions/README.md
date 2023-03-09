@@ -3,3 +3,7 @@
 ### 0 - change user
 
 Switch the current user to another user
+
+### 1 - who am i
+
+Print the effective username of the current user
