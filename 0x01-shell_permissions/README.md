@@ -31,3 +31,7 @@ Adds different permissions to the user, group and world
 ### 7 - everybody
 
 Give permission to everybody to execute
+
+### 8 - james bond
+
+Give no permission to u and g, and all permissions to o
