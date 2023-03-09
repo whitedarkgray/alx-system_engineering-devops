@@ -35,3 +35,7 @@ Give permission to everybody to execute
 ### 8 - james bond
 
 Give no permission to u and g, and all permissions to o
+
+### 9 - john doe
+
+Give rwxr-x-wx to a file
