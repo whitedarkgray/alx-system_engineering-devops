@@ -19,3 +19,7 @@ Change the owner of a file
 ### 4 - empty
 
 Create empty file
+
+### 5 - execute
+
+Add execute permission to the owner of a file
