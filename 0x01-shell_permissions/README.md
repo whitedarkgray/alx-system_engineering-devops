@@ -59,3 +59,7 @@ Change the group of a file
 ### 100 - ch owner and group
 
 Change the owner and group of all files
+
+### 101 - symbolic link perm
+
+Change the permissions of a symbolic link
