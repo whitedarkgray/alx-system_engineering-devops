@@ -47,3 +47,7 @@ Clone the permessions of one file to another
 ### 11 - dir perm
 
 Change all directories permissions
+
+### 12 - mkdir with perm
+
+Create a directory with given permissions
