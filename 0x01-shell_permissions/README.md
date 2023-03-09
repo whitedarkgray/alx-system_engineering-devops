@@ -43,3 +43,7 @@ Give rwxr-x-wx to a file
 ### 10 - mirror
 
 Clone the permessions of one file to another
+
+### 11 - dir perm
+
+Change all directories permissions
