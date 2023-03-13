@@ -9,3 +9,4 @@
 6 - third line: display the third line of the file iacta
 7 - file: name a file a weird name
 8 - cwd: save dir contents to file
+9 - iacta: duplicate last line
