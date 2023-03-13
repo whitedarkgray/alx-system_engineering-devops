@@ -10,3 +10,4 @@
 7 - file: name a file a weird name
 8 - cwd: save dir contents to file
 9 - iacta: duplicate last line
+10- rm: remove all files with .js extension
