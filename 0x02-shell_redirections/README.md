@@ -13,3 +13,4 @@
 10- rm: remove all files with .js extension
 11- count dirs and sub dirs in cwd
 12- display newest files
+13- diplay unique words
