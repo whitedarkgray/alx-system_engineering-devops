@@ -11,3 +11,4 @@
 8 - cwd: save dir contents to file
 9 - iacta: duplicate last line
 10- rm: remove all files with .js extension
+11- count dirs and sub dirs in cwd
